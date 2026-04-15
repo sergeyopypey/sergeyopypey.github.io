@@ -1,3 +1,3 @@
 # sergeyopypey.github.io
 
-[Запустить Dota 2](https://sergeyopypey.github.io/)
+[Смотреть продолжение в источнике](https://sergeyopypey.github.io/)
